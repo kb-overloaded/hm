@@ -1,11 +1,3 @@
-this is a local edit 
-
-
-and so is this 
-
-Starting new project on 
-
-
 # Course Overview
 
 Welcome to the Beginner Network Pentesting course.  Previously, the course was delivered weekly on Twitch and built from lessons learned in the previous week. The course provides an opportunity for those interested in becoming an ethical hacker / penetration tester the chance to learn the practical skills necessary to work in the field. Throughout the course, we will develop our own Active Directory lab in Windows, make it vulnerable, hack it, and patch it. We'll cover the red and blue sides. We'll also cover some of the boring stuff like report writing :).
