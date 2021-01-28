@@ -3,7 +3,7 @@ this is a local edit
 
 and so is this 
 
-Starting new project on this directory 
+Starting new project on 
 
 
 # Course Overview
